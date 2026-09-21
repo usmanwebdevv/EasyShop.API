@@ -1,0 +1,10 @@
+**/bin/
+**/obj/
+.git/
+.vs/
+.vscode/
+.env
+.env.*
+**/secrets.json
+**/appsettings.Development.json
+**/appsettings.Production.json
